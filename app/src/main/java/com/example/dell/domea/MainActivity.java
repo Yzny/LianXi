@@ -10,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //gawgawg
+        //幅度很大发行的任何对任何人都很
     }
 }
